@@ -1,0 +1,50 @@
+{
+  "windowWidth": 800,
+  "windowHeight": 600,
+  "refreshRateSeconds": 1,
+  "showSeconds": true,
+  "timeZones": {
+    "local": {
+      "zone": "Europe/Lisbon",
+      "description": "Local Time"
+    },
+    "others": [
+      {
+        "zone": "Europe/Bucharest",
+        "description": "Bucharest Time"
+      },
+      {
+        "zone": "America/New_York",
+        "description": "New York Time"
+      },
+      {
+        "zone": "Europe/London",
+        "description": "London Time"
+      },
+      {
+        "zone": "Europe/Paris",
+        "description": "Paris Time"
+      },
+      {
+        "zone": "Europe/Berlin",
+        "description": "Berlin Time"
+      },
+      {
+        "zone": "Asia/Tokyo",
+        "description": "Tokyo Time"
+      },
+      {
+        "zone": "Australia/Sydney",
+        "description": "Sydney Time"
+      },
+      {
+        "zone": "America/Los_Angeles",
+        "description": "Los Angeles Time"
+      },
+      {
+        "zone": "Asia/Kolkata",
+        "description": "Kolkata Time"
+      }
+    ]
+  }
+}
