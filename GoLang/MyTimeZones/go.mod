@@ -1,4 +1,4 @@
-module github.com/yourusername/GoMyTime
+module github.com/yourusername/MyTimeZones
 
 go 1.21
 
