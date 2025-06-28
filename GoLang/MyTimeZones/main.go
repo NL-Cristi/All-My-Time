@@ -5,10 +5,10 @@ import (
 
 	"fyne.io/fyne/v2/app"
 
-	"github.com/yourusername/GoMyTime/pkg/config"
-	"github.com/yourusername/GoMyTime/pkg/logger"
-	"github.com/yourusername/GoMyTime/pkg/timezone"
-	"github.com/yourusername/GoMyTime/pkg/ui"
+	"github.com/yourusername/MyTimeZones/pkg/config"
+	"github.com/yourusername/MyTimeZones/pkg/logger"
+	"github.com/yourusername/MyTimeZones/pkg/timezone"
+	"github.com/yourusername/MyTimeZones/pkg/ui"
 )
 
 func main() {

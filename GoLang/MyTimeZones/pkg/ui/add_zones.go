@@ -9,8 +9,8 @@ import (
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/widget"
 
-	"github.com/yourusername/GoMyTime/pkg/config"
-	"github.com/yourusername/GoMyTime/pkg/timezone"
+	"github.com/yourusername/MyTimeZones/pkg/config"
+	"github.com/yourusername/MyTimeZones/pkg/timezone"
 )
 
 type AddZonesWindow struct {

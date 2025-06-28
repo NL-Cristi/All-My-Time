@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/yourusername/GoMyTime/pkg/timezone"
+	"github.com/yourusername/MyTimeZones/pkg/timezone"
 )
 
 type AppConfig struct {
